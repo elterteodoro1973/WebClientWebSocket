@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WebClientWebSocket/1.0.0": {
+        "runtime": {
+          "WebClientWebSocket.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebClientWebSocket/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
